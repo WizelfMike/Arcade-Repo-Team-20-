@@ -1,3 +1,3 @@
 # Concept Pieces
 
-## Here you can find any art, assets or even writen documentation of possible features. 
+## This is where you'll find concepts for the game. Whether that's in drawn, modelled or written form. 
