@@ -232,7 +232,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.6666667
-        value: {x: -5.913, y: -1.646, z: -0.256}
+        value: {x: -2.783, y: -1.572, z: -1.228}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -4068,7 +4068,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.6666667
-        value: -5.913
+        value: -2.783
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -4105,7 +4105,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.6666667
-        value: -1.646
+        value: -1.572
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -4142,7 +4142,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.6666667
-        value: -0.256
+        value: -1.228
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9410,8 +9410,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R/GD_fng_e2_R/GD_fng_e3_R
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -9421,7 +9421,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R/GD_fng_e2_R/GD_fng_e3_R
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -9430,8 +9430,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R/GD_fng_e2_R/GD_fng_e3_R
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -10010,8 +10010,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R/GD_fng_e2_R/GD_fng_e3_R
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -10021,7 +10021,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R/GD_fng_e2_R/GD_fng_e3_R
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -10030,8 +10030,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R/GD_fng_e2_R/GD_fng_e3_R
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0
