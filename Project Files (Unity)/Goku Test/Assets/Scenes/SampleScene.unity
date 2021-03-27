@@ -3415,6 +3415,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2017178217954415899}
   - component: {fileID: 1204049114256658338}
+  - component: {fileID: 1204049114256658340}
+  - component: {fileID: 1204049114256658339}
   m_Layer: 6
   m_Name: Goku
   m_TagString: Untagged
@@ -3441,6 +3443,33 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1204049114256658339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204049114256658337}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c86b3e9cac7af89408ff0605209c8676, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1204049114256658340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204049114256658337}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d00c5721fb13bf4f9d646cbff334cb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Movementspeed: 4
+  rb: {fileID: 5144270681733567418}
+  Anim: {fileID: 1204049114256658338}
 --- !u!1 &1214056086482926120
 GameObject:
   m_ObjectHideFlags: 0
@@ -4018,7 +4047,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2711706124569475274}
   - component: {fileID: 780656522205048738}
-  - component: {fileID: 1487637724887389849}
   m_Layer: 6
   m_Name: Body
   m_TagString: Untagged
@@ -4026,25 +4054,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!95 &1487637724887389849
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1487637724887389848}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ac4ff70f62015274291b10b1be7d0cd4, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &1490201574321713433
 Transform:
   m_ObjectHideFlags: 0
@@ -12130,8 +12139,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4696921915596236880}
   - component: {fileID: 5144270681733567418}
-  - component: {fileID: 5144270681733567417}
-  - component: {fileID: 5144270681733567416}
   - component: {fileID: 5144270681733567419}
   m_Layer: 6
   m_Name: GKS_body
@@ -12140,32 +12147,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &5144270681733567416
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5144270681733567415}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c86b3e9cac7af89408ff0605209c8676, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &5144270681733567417
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5144270681733567415}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d00c5721fb13bf4f9d646cbff334cb3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Movementspeed: 4
-  rb: {fileID: 5144270681733567418}
 --- !u!54 &5144270681733567418
 Rigidbody:
   m_ObjectHideFlags: 0
