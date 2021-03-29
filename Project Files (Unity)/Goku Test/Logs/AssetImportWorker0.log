@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19042.867; Version 2009; 64bit' Language: 'en' Physical Memory: 16233 MB
+OS: 'Windows 10 Pro; OS build 19042.867; Version 2009; 64bit' Language: 'nl' Physical Memory: 16330 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,305 +11,201 @@ C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/mikey/Documents/Ma/Bewijzenmap/X 1/Y 3 (Arcade Mechanics)/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
+D:/School/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60989
-Successfully changed project path to: C:/Users/mikey/Documents/Ma/Bewijzenmap/X 1/Y 3 (Arcade Mechanics)/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
-C:/Users/mikey/Documents/Ma/Bewijzenmap/X 1/Y 3 (Arcade Mechanics)/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
+58120
+Successfully changed project path to: D:/School/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
+D:/School/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 32.04 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 21.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/mikey/Documents/Ma/Bewijzenmap/X 1/Y 3 (Arcade Mechanics)/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test/Assets
+[Subsystems] Discovering subsystems at path D:/School/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
     Vendor:   
-    VRAM:     5991 MB
-    Driver:   27.21.14.6140
+    VRAM:     8088 MB
+    Driver:   27.21.14.6192
 Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56656
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002258 seconds.
+Registered in 0.001816 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 25.55 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 21.17 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.226 seconds
+- Completed reload, in  0.959 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000821 seconds.
+Registered in 0.000917 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.062 seconds
+- Completed reload, in  0.732 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.9 MB.
-System memory in use after: 60.0 MB.
+Unloading 1123 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.5 MB.
+System memory in use after: 59.5 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1564.
-Total: 1.781800 ms (FindLiveObjects: 0.119700 ms CreateObjectMapping: 0.039400 ms MarkObjects: 1.534800 ms  DeleteObjects: 0.087000 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1566.
+Total: 1.334600 ms (FindLiveObjects: 0.107800 ms CreateObjectMapping: 0.030100 ms MarkObjects: 1.128900 ms  DeleteObjects: 0.067100 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Models/Goku
-  artifactKey: Guid(52d3f2d06d807e44d95c0d1228b77edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Goku using Guid(52d3f2d06d807e44d95c0d1228b77edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1daa3e7f9cf8635af663cd9493fad2b3') in 0.009140 seconds
-  Import took 0.011187 seconds .
+  path: Assets/Animation
+  artifactKey: Guid(bf1154642934a4a49b47cb7b9c4e115d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation using Guid(bf1154642934a4a49b47cb7b9c4e115d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e043f40617ba1592ebd4d625cad64d8') in 0.007670 seconds
+  Import took 0.010126 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 812.379296 seconds.
-  path: Assets/Scripts/Box Hit.cs
-  artifactKey: Guid(43c110c118106ee4ab14dfebd8e7cdf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Box Hit.cs using Guid(43c110c118106ee4ab14dfebd8e7cdf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '554df0b6d5bfaf53f2ce3a87d6a5ea1d') in 0.050142 seconds
-  Import took 0.052789 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000904 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.030 seconds
-Platform modules already initialized, skipping
-Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.6 MB.
-System memory in use after: 59.7 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1568.
-Total: 2.394500 ms (FindLiveObjects: 0.213200 ms CreateObjectMapping: 0.070400 ms MarkObjects: 2.034200 ms  DeleteObjects: 0.074100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 107.270608 seconds.
-  path: Assets/Scripts/Box Hit.cs
-  artifactKey: Guid(43c110c118106ee4ab14dfebd8e7cdf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Box Hit.cs using Guid(43c110c118106ee4ab14dfebd8e7cdf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7653d475f45945662179e8c5cc5833') in 0.006566 seconds
-  Import took 0.009749 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000776 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.950 seconds
-Platform modules already initialized, skipping
-Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.7 MB.
-System memory in use after: 59.7 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1571.
-Total: 2.206200 ms (FindLiveObjects: 0.173900 ms CreateObjectMapping: 0.051400 ms MarkObjects: 1.906200 ms  DeleteObjects: 0.072600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 143.700387 seconds.
-  path: Assets/Scripts/Box Hit.cs
-  artifactKey: Guid(43c110c118106ee4ab14dfebd8e7cdf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Box Hit.cs using Guid(43c110c118106ee4ab14dfebd8e7cdf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9bdf6be4221734bac4e099abdb88a5a') in 0.006591 seconds
-  Import took 0.009109 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.824513 seconds.
-  path: Assets/Scripts/Movement.cs
-  artifactKey: Guid(3d00c5721fb13bf4f9d646cbff334cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Movement.cs using Guid(3d00c5721fb13bf4f9d646cbff334cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '387528ee6b97c4743d131cce90ad6595') in 0.032859 seconds
-  Import took 0.038290 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.035592 seconds.
-  path: Assets/Scripts/Movement.cs
-  artifactKey: Guid(3d00c5721fb13bf4f9d646cbff334cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Movement.cs using Guid(3d00c5721fb13bf4f9d646cbff334cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '387528ee6b97c4743d131cce90ad6595') in 0.011142 seconds
-  Import took 0.014407 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 44.893895 seconds.
-  path: Assets/Scripts/Combat.cs
-  artifactKey: Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Combat.cs using Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38cefe025994b7b39a4d737f3aa066de') in 0.008281 seconds
-  Import took 0.011169 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000816 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.909 seconds
-Platform modules already initialized, skipping
-Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
-Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.7 MB.
-System memory in use after: 59.8 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1575.
-Total: 2.105200 ms (FindLiveObjects: 0.498300 ms CreateObjectMapping: 0.183700 ms MarkObjects: 1.359400 ms  DeleteObjects: 0.062300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 150.515782 seconds.
-  path: Assets/Scripts/Combat.cs
-  artifactKey: Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Combat.cs using Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc84a218ca856cf67e7d5421219596ef') in 0.005601 seconds
-  Import took 0.008154 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000791 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.928 seconds
-Platform modules already initialized, skipping
-Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.7 MB.
-System memory in use after: 59.8 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1578.
-Total: 2.021300 ms (FindLiveObjects: 0.132400 ms CreateObjectMapping: 0.061100 ms MarkObjects: 1.767200 ms  DeleteObjects: 0.058800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 47.040724 seconds.
-  path: Assets/Scripts/Combat.cs
-  artifactKey: Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Combat.cs using Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9975f46a69b35e322c17b57f5199022c') in 0.005425 seconds
-  Import took 0.007586 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001267 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.007 seconds
-Platform modules already initialized, skipping
-Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
-Refreshing native plugins compatible for Editor in 1.02 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.7 MB.
-System memory in use after: 59.8 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1581.
-Total: 4.383300 ms (FindLiveObjects: 0.546300 ms CreateObjectMapping: 0.119300 ms MarkObjects: 3.589600 ms  DeleteObjects: 0.124900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 456.360814 seconds.
+  Time since last request: 117.352266 seconds.
   path: Assets/Animation/Goku 2.controller
   artifactKey: Guid(b7c18bf3ae6667d42a162339768e13b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animation/Goku 2.controller using Guid(b7c18bf3ae6667d42a162339768e13b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269726488bb65a0afd18cd8ae2f4157b') in 0.058124 seconds
-  Import took 0.062589 seconds .
+Start importing Assets/Animation/Goku 2.controller using Guid(b7c18bf3ae6667d42a162339768e13b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c8d738a885008900dad28057237e12d') in 0.049272 seconds
+  Import took 0.051587 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 194.551052 seconds.
+  Time since last request: 17.245883 seconds.
   path: Assets/Scripts/Combat.cs
   artifactKey: Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Combat.cs using Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113e7c1c2725010133960055a9abd9c3') in 0.018937 seconds
-  Import took 0.029878 seconds .
+Start importing Assets/Scripts/Combat.cs using Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e302a744af3ac8d0613923053c716839') in 0.007587 seconds
+  Import took 0.009271 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000851 seconds.
+Registered in 0.000966 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.929 seconds
+- Completed reload, in  0.684 seconds
 Platform modules already initialized, skipping
 Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.7 MB.
-System memory in use after: 59.8 MB.
+System memory in use before: 59.2 MB.
+System memory in use after: 59.3 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1584.
-Total: 1.864200 ms (FindLiveObjects: 0.168800 ms CreateObjectMapping: 0.047500 ms MarkObjects: 1.581500 ms  DeleteObjects: 0.064500 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 1.346000 ms (FindLiveObjects: 0.100800 ms CreateObjectMapping: 0.026200 ms MarkObjects: 1.169200 ms  DeleteObjects: 0.048700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 149.300131 seconds.
+  path: Assets/Scripts/Combat.cs
+  artifactKey: Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Combat.cs using Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93857a44d7d81453575836077e4ebfb5') in 0.004392 seconds
+  Import took 0.005978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.512079 seconds.
+  path: Assets/Scripts/Combat.cs
+  artifactKey: Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Combat.cs using Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93857a44d7d81453575836077e4ebfb5') in 0.002618 seconds
+  Import took 0.004269 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000822 seconds.
+Registered in 0.001335 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.001 seconds
+Platform modules already initialized, skipping
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.2 MB.
+System memory in use after: 59.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1572.
+Total: 2.434300 ms (FindLiveObjects: 0.124400 ms CreateObjectMapping: 0.032800 ms MarkObjects: 2.221400 ms  DeleteObjects: 0.053300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001081 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.770 seconds
+Platform modules already initialized, skipping
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.2 MB.
+System memory in use after: 59.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1575.
+Total: 1.389800 ms (FindLiveObjects: 0.123100 ms CreateObjectMapping: 0.028300 ms MarkObjects: 1.183700 ms  DeleteObjects: 0.053600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.205108 seconds.
+  path: Assets/Scripts/Combat.cs
+  artifactKey: Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Combat.cs using Guid(9007f72bd6b1e2c4d97bb323aab60445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8575005581b6964303dfedd168545a6a') in 0.005261 seconds
+  Import took 0.006917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.851799 seconds.
+  path: Assets/Animation/Punch.anim
+  artifactKey: Guid(046e2845e6029564daae48c274edb0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Punch.anim using Guid(046e2845e6029564daae48c274edb0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7abaa37951610af0633e902cc290ef58') in 0.019903 seconds
+  Import took 0.022255 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001027 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
@@ -318,40 +214,48 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.937 seconds
+- Completed reload, in  0.864 seconds
 Platform modules already initialized, skipping
 Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.8 MB.
-System memory in use after: 59.9 MB.
+System memory in use before: 59.3 MB.
+System memory in use after: 59.3 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1587.
-Total: 1.961600 ms (FindLiveObjects: 0.194000 ms CreateObjectMapping: 0.071400 ms MarkObjects: 1.627100 ms  DeleteObjects: 0.066700 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1578.
+Total: 1.494900 ms (FindLiveObjects: 0.133800 ms CreateObjectMapping: 0.035300 ms MarkObjects: 1.273700 ms  DeleteObjects: 0.050800 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000885 seconds.
+Registered in 0.000821 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.985 seconds
+- Completed reload, in  0.828 seconds
 Platform modules already initialized, skipping
 Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.8 MB.
-System memory in use after: 59.9 MB.
+System memory in use before: 59.3 MB.
+System memory in use after: 59.3 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1590.
-Total: 1.938900 ms (FindLiveObjects: 0.194600 ms CreateObjectMapping: 0.063900 ms MarkObjects: 1.613600 ms  DeleteObjects: 0.065400 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1581.
+Total: 1.363900 ms (FindLiveObjects: 0.113600 ms CreateObjectMapping: 0.029100 ms MarkObjects: 1.170700 ms  DeleteObjects: 0.049600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 324.528154 seconds.
+  path: Assets/Animation/Goku 2.controller
+  artifactKey: Guid(b7c18bf3ae6667d42a162339768e13b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Goku 2.controller using Guid(b7c18bf3ae6667d42a162339768e13b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7209a811ef701ec75952cf2f81d5662') in 0.027006 seconds
+  Import took 0.029777 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

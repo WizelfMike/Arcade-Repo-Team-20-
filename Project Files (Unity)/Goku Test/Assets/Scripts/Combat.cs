@@ -9,7 +9,7 @@ public class Combat : MonoBehaviour
 
     void Start()
     {
-        
+        Anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -17,11 +17,7 @@ public class Combat : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.C))
         {
-            Anim.SetBool("Punch", true);
-        }
-        else
-        {
-            Anim.SetBool("Punch", false);
+            Anim.SetTrigger("Punch2");
         }
     }
 }
