@@ -28,6 +28,9 @@ public class Movement : MonoBehaviour
         if (Input.GetKey(KeyCode.A))
         {
             transform.position += new Vector3(-Movementspeed, 0, 0) * Time.deltaTime;
+            Anim.SetBool("WalkBack", true);
+        }   else {
+            Anim.SetBool("WalkBack", false);
         }
 
         if (Input.GetKey(KeyCode.W))
