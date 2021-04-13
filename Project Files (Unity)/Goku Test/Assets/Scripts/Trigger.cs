@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Trigger : MonoBehaviour
 {
-    public GameObject Cube;
+    public GameObject TestPole;
 
 
     // Start is called before the first frame update
