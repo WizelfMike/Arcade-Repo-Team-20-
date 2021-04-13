@@ -719,7 +719,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: 0, z: 10.706}
+        value: {x: 18.243, y: 3.573, z: 11.28}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -821,7 +821,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 13.163, y: 0, z: 0}
+        value: {x: 12.17998, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -948,7 +948,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 17.03, y: -94.005, z: 217.536}
+        value: {x: 9.509953, y: -93.228584, z: 187.31522}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1027,7 +1027,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 13.251, y: -11.09, z: -53.522}
+        value: {x: 4.1172657, y: -0.38944435, z: -32.045345}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1106,7 +1106,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: -90, z: -196.109}
+        value: {x: 0, y: -90, z: -156.31451}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1185,7 +1185,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 5.912, y: 12.473, z: -36.268}
+        value: {x: 5.912, y: 12.473, z: -41.712708}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1264,7 +1264,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -37.856, y: 0, z: 90}
+        value: {x: 1.6307144, y: 0, z: 90}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1343,7 +1343,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 35.546, y: 0, z: -90}
+        value: {x: -6.7330093, y: 0, z: -90}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1472,7 +1472,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.347, y: 20.085, z: 65.537}
+        value: {x: -2.9317374, y: 16.528275, z: 65.63287}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1524,7 +1524,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 13.698, y: 0.204, z: 40.815}
+        value: {x: 10.431284, y: -3.4101248, z: 42.12259}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1576,7 +1576,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 45.232, y: 0, z: 0}
+        value: {x: 39.438164, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1628,7 +1628,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 8.417, y: -36.024, z: -23.632}
+        value: {x: 3.93676, y: -34.07599, z: -23.598942}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1680,7 +1680,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.05, y: -0.01, z: 0.004}
+        value: {x: 0.04849737, y: 6.3310947, z: 0.009108939}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1732,7 +1732,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 8.596, y: -66.89, z: -58.872}
+        value: {x: 8.834618, y: -65.55807, z: -60.315426}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1784,7 +1784,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: 25, z: 0}
+        value: {x: 0, y: 31.204655, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1836,7 +1836,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.05, y: -0.01, z: 0.004}
+        value: {x: 0.048797898, y: 5.8962345, z: 0.008808415}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1888,7 +1888,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: -25, z: 0}
+        value: {x: 0, y: -15.82615, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2472,13 +2472,6 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 2855327329
-      attribute: 4
-      script: {fileID: 0}
-      typeID: 4
-      customType: 4
-      isPPtrCurve: 0
-    - serializedVersion: 2
       path: 1180236158
       attribute: 4
       script: {fileID: 0}
@@ -2928,6 +2921,13 @@ AnimationClip:
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 700999350
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2855327329
       attribute: 4
       script: {fileID: 0}
       typeID: 4
@@ -7125,7 +7125,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 18.243
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -7180,7 +7180,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 3.573
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -7235,7 +7235,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 10.706
+        value: 11.28
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -7458,7 +7458,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 13.163
+        value: 12.17998
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -7875,7 +7875,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 17.03
+        value: 9.509953
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -7957,7 +7957,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -94.005
+        value: -93.228584
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8039,7 +8039,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 217.536
+        value: 187.31522
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8121,7 +8121,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 13.251
+        value: 4.1172657
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8203,7 +8203,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -11.09
+        value: -0.38944435
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8285,7 +8285,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -53.522
+        value: -32.045345
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8531,7 +8531,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -196.109
+        value: -156.31451
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8777,7 +8777,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -36.268
+        value: -41.712708
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8859,7 +8859,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -37.856
+        value: 1.6307144
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9105,7 +9105,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 35.546
+        value: -6.7330093
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9519,7 +9519,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.347
+        value: -2.9317374
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9574,7 +9574,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 20.085
+        value: 16.528275
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9629,7 +9629,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 65.537
+        value: 65.63287
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9684,7 +9684,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 13.698
+        value: 10.431284
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9739,7 +9739,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.204
+        value: -3.4101248
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9794,7 +9794,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 40.815
+        value: 42.12259
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9849,7 +9849,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 45.232
+        value: 39.438164
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10014,7 +10014,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 8.417
+        value: 3.93676
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10069,7 +10069,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -36.024
+        value: -34.07599
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10124,7 +10124,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -23.632
+        value: -23.598942
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10179,7 +10179,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.05
+        value: 0.04849737
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10234,7 +10234,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.01
+        value: 6.3310947
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10289,7 +10289,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.004
+        value: 0.009108939
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10344,7 +10344,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 8.596
+        value: 8.834618
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10399,7 +10399,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -66.89
+        value: -65.55807
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10454,7 +10454,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -58.872
+        value: -60.315426
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10564,7 +10564,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 25
+        value: 31.204655
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10674,7 +10674,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.05
+        value: 0.048797898
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10729,7 +10729,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.01
+        value: 5.8962345
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10784,7 +10784,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.004
+        value: 0.008808415
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -10894,7 +10894,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -25
+        value: -15.82615
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -11007,6 +11007,36 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
     path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R
     classID: 4
     script: {fileID: 0}
@@ -11037,7 +11067,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R/GD_fng_d2_R
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FML1_
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11047,7 +11077,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R/GD_fng_d2_R
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FML1_
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11057,7 +11087,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R/GD_fng_d2_R
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FML1_
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11067,7 +11097,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMM1_
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11077,7 +11107,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMM1_
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11087,7 +11117,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMM1_
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11097,7 +11127,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L/GD_fng_a2_L
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_c1_L/GD_fng_c2_L
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11107,7 +11137,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L/GD_fng_a2_L
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_c1_L/GD_fng_c2_L
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11117,7 +11147,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L/GD_fng_a2_L
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_c1_L/GD_fng_c2_L
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11277,7 +11307,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R/GD_fng_d2_R
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11287,7 +11317,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R/GD_fng_d2_R
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11297,7 +11327,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R/GD_fng_d2_R
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11307,7 +11337,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R/GD_fng_d2_R/GD_fng_d3_R
+    path: GKS_body/G_root/G_pelvis/G_thigh_L/G_calf_L
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11317,7 +11347,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R/GD_fng_d2_R/GD_fng_d3_R
+    path: GKS_body/G_root/G_pelvis/G_thigh_L/G_calf_L
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11327,7 +11357,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R/GD_fng_d2_R/GD_fng_d3_R
+    path: GKS_body/G_root/G_pelvis/G_thigh_L/G_calf_L
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11337,7 +11367,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_thigh_R
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_MR
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11347,7 +11377,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_thigh_R
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_MR
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11357,7 +11387,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_thigh_R
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_MR
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11367,7 +11397,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: 
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_chest_scl
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11377,7 +11407,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: 
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_chest_scl
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11387,7 +11417,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: 
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_chest_scl
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11397,7 +11427,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L
+    path: GKS_body/G_root/G_pelvis/G_thigh_R/G_calf_R
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11407,7 +11437,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L
+    path: GKS_body/G_root/G_pelvis/G_thigh_R/G_calf_R
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11417,217 +11447,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L/GD_fng_a2_L/GD_fng_a3_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L/GD_fng_a2_L/GD_fng_a3_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L/GD_fng_a2_L/GD_fng_a3_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L/GD_fng_e2_L/GD_fng_e3_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L/GD_fng_e2_L/GD_fng_e3_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L/GD_fng_e2_L/GD_fng_e3_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L/GD_fng_e2_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L/GD_fng_e2_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L/GD_fng_e2_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_c1_L/GD_fng_c2_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_c1_L/GD_fng_c2_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_c1_L/GD_fng_c2_L
+    path: GKS_body/G_root/G_pelvis/G_thigh_R/G_calf_R
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11667,6 +11487,96 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L/GD_fng_a2_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L/GD_fng_a2_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L/GD_fng_a2_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L/GD_fng_e2_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L/GD_fng_e2_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L/GD_fng_e2_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
     path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L
     classID: 4
     script: {fileID: 0}
@@ -11697,7 +11607,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_c1_L
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11707,7 +11617,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_c1_L
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11717,7 +11627,127 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_c1_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_d1_L/GD_fng_d2_L/GD_fng_d3_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_d1_L/GD_fng_d2_L/GD_fng_d3_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_d1_L/GD_fng_d2_L/GD_fng_d3_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L/GD_fng_e2_L/GD_fng_e3_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L/GD_fng_e2_L/GD_fng_e3_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_e1_L/GD_fng_e2_L/GD_fng_e3_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -11787,186 +11817,6 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_d1_L/GD_fng_d2_L/GD_fng_d3_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_d1_L/GD_fng_d2_L/GD_fng_d3_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fist_L/GD_fng_d1_L/GD_fng_d2_L/GD_fng_d3_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_c1_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_c1_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_c1_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_thigh_R/G_calf_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_thigh_R/G_calf_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_thigh_R/G_calf_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_b1_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_b1_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_b1_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FML1_
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FML1_
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FML1_
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
     path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_b1_L/GD_fng_b2_L/GD_fng_b3_L
     classID: 4
     script: {fileID: 0}
@@ -11988,6 +11838,126 @@ AnimationClip:
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
     path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_b1_L/GD_fng_b2_L/GD_fng_b3_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_thigh_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_thigh_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_thigh_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R/GD_fng_d2_R/GD_fng_d3_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R/GD_fng_d2_R/GD_fng_d3_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_d1_R/GD_fng_d2_R/GD_fng_d3_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L/GD_fng_a2_L/GD_fng_a3_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L/GD_fng_a2_L/GD_fng_a3_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_a1_L/GD_fng_a2_L/GD_fng_a3_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_B
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_B
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_B
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -12027,6 +11997,66 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_b1_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_b1_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_L/G_uparm_L/G_lowarm_L/GD_hand_L/GD_fng_b1_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
     path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R/GD_fng_e2_R
     classID: 4
     script: {fileID: 0}
@@ -12048,6 +12078,156 @@ AnimationClip:
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
     path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fist_R/GD_fng_e1_R/GD_fng_e2_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMM1_
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMM1_
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMM1_
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_ML
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_ML
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_ML
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -12117,306 +12297,6 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_chest_scl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_chest_scl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_chest_scl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMM1_/G_hair_FMM2_
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMM1_/G_hair_FMM2_
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMM1_/G_hair_FMM2_
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_MM
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_MM
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_MM
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R/GD_fng_c2_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R/GD_fng_c2_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R/GD_fng_c2_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_thigh_L/G_calf_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_thigh_L/G_calf_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_thigh_L/G_calf_L
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_ML
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_ML
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_ML
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_B
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_B
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_B
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R/GD_fng_c2_R/GD_fng_c3_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R/GD_fng_c2_R/GD_fng_c3_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R/GD_fng_c2_R/GD_fng_c3_R
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
     path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FSR1_
     classID: 4
     script: {fileID: 0}
@@ -12477,7 +12357,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_MR
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -12487,7 +12367,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_MR
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -12497,7 +12377,37 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_MR
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R/GD_fng_c2_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R/GD_fng_c2_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R/GD_fng_c2_R
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -12528,6 +12438,96 @@ AnimationClip:
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
     path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMR1_
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R/GD_fng_c2_R/GD_fng_c3_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R/GD_fng_c2_R/GD_fng_c3_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/GD_clavicle_R/G_uparm_R/G_lowarm_R/GD_hand_R/GD_fng_c1_R/GD_fng_c2_R/GD_fng_c3_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_MM
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_MM
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_MM
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMM1_/G_hair_FMM2_
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMM1_/G_hair_FMM2_
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: GKS_body/G_root/G_pelvis/G_waist/G_stomach/G_chest/G_neck/G_head/G_face_base/G_hair_base/G_hair_FMM1_/G_hair_FMM2_
     classID: 4
     script: {fileID: 0}
   - curve:
