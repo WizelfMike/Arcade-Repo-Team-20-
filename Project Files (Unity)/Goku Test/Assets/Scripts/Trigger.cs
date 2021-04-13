@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Trigger : MonoBehaviour
 {
-    public GameObject TestPole;
+    public GameObject Activate;
 
 
     // Start is called before the first frame update
@@ -16,7 +16,11 @@ public class Trigger : MonoBehaviour
     // Update is called once per frame
     public void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Ouch");
+        if (other.gameObject.tag == "Hurtbox1")
+        {
+            Debug.Log("Ouch");
+        }
+            
     }
 
     

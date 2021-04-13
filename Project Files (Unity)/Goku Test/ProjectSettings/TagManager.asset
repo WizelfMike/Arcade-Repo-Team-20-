@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Hurtbox1
+  - Hurtbox2
   layers:
   - Default
   - TransparentFX
@@ -13,10 +15,10 @@ TagManager:
   - UI
   - Goku
   - Goku2
-  - 
-  - 
-  - 
-  - 
+  - Hurtbox 1
+  - Hurtbox 2
+  - Hitbox 1
+  - Hitbox 2
   - 
   - 
   - 
