@@ -35,6 +35,7 @@ public class Movement : MonoBehaviour
 
         if (Input.GetKey(KeyCode.W))
         {
+            Debug.Log("Jump");
             rb.velocity = new Vector3(0, 2, 0);
         }
     }
