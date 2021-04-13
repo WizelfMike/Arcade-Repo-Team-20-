@@ -5,9 +5,14 @@ using UnityEngine;
 public class Trigger : MonoBehaviour
 {
     public GameObject Activate;
-
+    public GameObject OuchRender;
 
     // Start is called before the first frame update
+    private void Start()
+    {
+        OuchRender.SetActive(false);
+    }
+
     private void OnCollisionEnter(Collision collision)
     {
 
@@ -19,10 +24,16 @@ public class Trigger : MonoBehaviour
         if (other.gameObject.tag == "Hurtbox1")
         {
             Debug.Log("Ouch");
+            StartCoroutine(Waiting());
         }
             
     }
 
-    
-    
+    IEnumerator Waiting()
+    {
+        OuchRender.SetActive(true);
+        yield return new WaitForSeconds(1f);
+        OuchRender.SetActive(false);
+    }
+
 }
