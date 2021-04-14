@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Hurtbox1
   - Hurtbox2
+  - Hitbox1
+  - Hitbox2
   layers:
   - Default
   - TransparentFX

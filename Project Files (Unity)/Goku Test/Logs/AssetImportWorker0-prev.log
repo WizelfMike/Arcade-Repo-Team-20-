@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19042.867; Version 2009; 64bit' Language: 'nl' Physical Memory: 16330 MB
+OS: 'Windows 10 Home; OS build 19042.867; Version 2009; 64bit' Language: 'en' Physical Memory: 16233 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,115 +11,427 @@ C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/School/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
+C:/Users/mikey/Documents/Ma/Bewijzenmap/X 1/Y 3 (Arcade Mechanics)/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59832
-Successfully changed project path to: D:/School/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
-D:/School/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
+60750
+Successfully changed project path to: C:/Users/mikey/Documents/Ma/Bewijzenmap/X 1/Y 3 (Arcade Mechanics)/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
+C:/Users/mikey/Documents/Ma/Bewijzenmap/X 1/Y 3 (Arcade Mechanics)/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 23.23 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 35.99 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/School/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test/Assets
+[Subsystems] Discovering subsystems at path C:/Users/mikey/Documents/Ma/Bewijzenmap/X 1/Y 3 (Arcade Mechanics)/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
     Vendor:   
-    VRAM:     8088 MB
-    Driver:   27.21.14.6192
+    VRAM:     5991 MB
+    Driver:   27.21.14.6140
 Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56324
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56900
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001745 seconds.
+Registered in 0.002333 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 20.69 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 29.98 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.964 seconds
+- Completed reload, in  1.370 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000904 seconds.
+Registered in 0.000924 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.731 seconds
+- Completed reload, in  1.037 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.9 MB.
-System memory in use after: 59.9 MB.
+System memory in use before: 60.3 MB.
+System memory in use after: 60.3 MB.
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1570.
-Total: 1.358500 ms (FindLiveObjects: 0.120600 ms CreateObjectMapping: 0.034700 ms MarkObjects: 1.135800 ms  DeleteObjects: 0.066600 ms)
+Total: 2.054700 ms (FindLiveObjects: 0.169300 ms CreateObjectMapping: 0.075800 ms MarkObjects: 1.710300 ms  DeleteObjects: 0.097900 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Maps/Textures Stage/Door.png
-  artifactKey: Guid(aab445cda9b7c2e4995b445751146a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Textures Stage/Door.png using Guid(aab445cda9b7c2e4995b445751146a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e158b7e598ed27cd8677e786e26bf925') in 0.066636 seconds
-  Import took 0.068238 seconds .
+  path: Assets/Scenes
+  artifactKey: Guid(ab5884b8990aee24f9aff8332cd37bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(ab5884b8990aee24f9aff8332cd37bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '716d42ab9f8f420e3ca679e4b86d4b17') in 0.010415 seconds
+  Import took 0.012859 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000278 seconds.
+  Time since last request: 0.000871 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e09b681e75cb77f1bd530421d05602') in 0.017532 seconds
+  Import took 0.019840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.170978 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f7b3fdd2bb9b8a8b4a7c92d31a8fd1b') in 0.011406 seconds
+  Import took 0.014258 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000897 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.0 MB.
+System memory in use after: 60.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 2.121700 ms (FindLiveObjects: 0.151700 ms CreateObjectMapping: 0.041500 ms MarkObjects: 1.871100 ms  DeleteObjects: 0.055700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.964318 seconds.
+  path: Assets/Monkee/IntroScreen.png
+  artifactKey: Guid(67c173618825e6048a473af1983cd3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monkee/IntroScreen.png using Guid(67c173618825e6048a473af1983cd3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a887cd82209b5682bded8552402f99') in 0.137096 seconds
+  Import took 0.139557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.010328 seconds.
+  path: Assets/Monkee/IntroScreen.png
+  artifactKey: Guid(67c173618825e6048a473af1983cd3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monkee/IntroScreen.png using Guid(67c173618825e6048a473af1983cd3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea0f271508b98d53201a598ac54fcf52') in 0.102619 seconds
+  Import took 0.105242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.372352 seconds.
+  path: Assets/Scenes/Intro.unity
+  artifactKey: Guid(19399fcf40a04a24bb85e330e82cadd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Intro.unity using Guid(19399fcf40a04a24bb85e330e82cadd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ef027f251e449868c37e22d1bbe5fc7') in 0.024974 seconds
+  Import took 0.033692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.151588 seconds.
   path: Assets/Maps/Textures Stage/Bark.png
   artifactKey: Guid(9763d4ec3c50d854281ae2c27c329ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Textures Stage/Bark.png using Guid(9763d4ec3c50d854281ae2c27c329ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d96dc175bc570ed57d6ec44a9cf18f4') in 0.012316 seconds
-  Import took 0.013864 seconds .
+Start importing Assets/Maps/Textures Stage/Bark.png using Guid(9763d4ec3c50d854281ae2c27c329ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6bd9923772835b2f4643851524fef7e') in 0.047333 seconds
+  Import took 0.054710 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000159 seconds.
+  Time since last request: 0.000772 seconds.
+  path: Assets/Maps/Textures Stage/Door.png
+  artifactKey: Guid(aab445cda9b7c2e4995b445751146a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Textures Stage/Door.png using Guid(aab445cda9b7c2e4995b445751146a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964efa3bb60fbfc66f3ce713c2897538') in 0.041142 seconds
+  Import took 0.048838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000761 seconds.
   path: Assets/Maps/Textures Stage/Grass.png
   artifactKey: Guid(646e7706f304d1a4aac033af56e28d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Textures Stage/Grass.png using Guid(646e7706f304d1a4aac033af56e28d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ddd5031b92ae57a1b774ce63b4e3c20') in 0.009360 seconds
-  Import took 0.011437 seconds .
+Start importing Assets/Maps/Textures Stage/Grass.png using Guid(646e7706f304d1a4aac033af56e28d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3fc65404c859d5a7e3819393e5d8333') in 0.048705 seconds
+  Import took 0.057477 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000342 seconds.
+  Time since last request: 0.000667 seconds.
   path: Assets/Maps/Textures Stage/Stone.png
   artifactKey: Guid(e5dfa802473d3dd4e98347b5a6088084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Textures Stage/Stone.png using Guid(e5dfa802473d3dd4e98347b5a6088084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d8e856263f4e0c137f7106e81daeee8') in 0.010828 seconds
-  Import took 0.012936 seconds .
+Start importing Assets/Maps/Textures Stage/Stone.png using Guid(e5dfa802473d3dd4e98347b5a6088084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83897e96399271c72fd1294d71708700') in 0.021566 seconds
+  Import took 0.026538 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Materials/OUCH.png
-  artifactKey: Guid(b5ec339c37baf5440920a795f317b682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/OUCH.png using Guid(b5ec339c37baf5440920a795f317b682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec7f746726901b860e92ca8175d58b1') in 0.024239 seconds
-  Import took 0.026159 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
+  Time since last request: 0.000408 seconds.
   path: Assets/Maps/Textures Stage/Capsule House Texture.png
   artifactKey: Guid(d029ce28b5710af41ab5da470e4c1682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Textures Stage/Capsule House Texture.png using Guid(d029ce28b5710af41ab5da470e4c1682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a21205a202dffb4c9559975101068fc') in 0.008386 seconds
-  Import took 0.010070 seconds .
+Start importing Assets/Maps/Textures Stage/Capsule House Texture.png using Guid(d029ce28b5710af41ab5da470e4c1682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c17a705f5cc20ffa7c817e0b616c36') in 0.018358 seconds
+  Import took 0.021726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.180622 seconds.
+  path: Assets/Maps/Stage.fbx
+  artifactKey: Guid(dd610333b8ee04d4d83884536994e08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Stage.fbx using Guid(dd610333b8ee04d4d83884536994e08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb0ddbb89fffe86e4f4a8bfc82dacb19') in 0.320615 seconds
+  Import took 0.325209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.677330 seconds.
+  path: Assets/Materials/Ouch.mat
+  artifactKey: Guid(6be875e4ed9032e44a4d9f57c45f2d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Ouch.mat using Guid(6be875e4ed9032e44a4d9f57c45f2d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83a930243cd6279c07e63338ee122911') in 0.091595 seconds
+  Import took 0.100812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000733 seconds.
+  path: Assets/Materials/OUCH.png
+  artifactKey: Guid(b5ec339c37baf5440920a795f317b682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/OUCH.png using Guid(b5ec339c37baf5440920a795f317b682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9929085004acf3245c0e08b78749c69') in 0.051537 seconds
+  Import took 0.060967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.439366 seconds.
+  path: Assets/Placeholder platform/Cube.prefab
+  artifactKey: Guid(e103e1dd7ac153644873a532c3087d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Placeholder platform/Cube.prefab using Guid(e103e1dd7ac153644873a532c3087d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a16ca2c5ad54912dd4bbaa72c1361ee') in 0.065162 seconds
+  Import took 0.073959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.491413 seconds.
+  path: Assets/Scripts/Main Menu.cs
+  artifactKey: Guid(1445b8bbc72efe445888c0a2ebcbfc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main Menu.cs using Guid(1445b8bbc72efe445888c0a2ebcbfc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd26d83282e84456470ee013208ef77f8') in 0.045826 seconds
+  Import took 0.054569 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000952 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.955 seconds
+Platform modules already initialized, skipping
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.7 MB.
+System memory in use after: 63.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1626.
+Total: 2.067600 ms (FindLiveObjects: 0.230300 ms CreateObjectMapping: 0.063500 ms MarkObjects: 1.713100 ms  DeleteObjects: 0.058600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 188.453431 seconds.
+  path: Assets/Scripts/Main Menu.cs
+  artifactKey: Guid(1445b8bbc72efe445888c0a2ebcbfc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main Menu.cs using Guid(1445b8bbc72efe445888c0a2ebcbfc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd030bb2aa6d9bb5188707a02500deb8') in 0.007642 seconds
+  Import took 0.009859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.023672 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(1445b8bbc72efe445888c0a2ebcbfc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(1445b8bbc72efe445888c0a2ebcbfc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77cac494de0890fea0f3cbffbb9495d9') in 0.007424 seconds
+  Import took 0.010847 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000852 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.092 seconds
+Platform modules already initialized, skipping
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.7 MB.
+System memory in use after: 63.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 2.197400 ms (FindLiveObjects: 0.166900 ms CreateObjectMapping: 0.050700 ms MarkObjects: 1.909800 ms  DeleteObjects: 0.068700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.009400 seconds.
+  path: Assets/Aerthas-Unity-Shaders/Arc System Works Shader/Custom Functions/ASWOutline.asset
+  artifactKey: Guid(ea9f2d47913480c4f9e91454af7efa45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aerthas-Unity-Shaders/Arc System Works Shader/Custom Functions/ASWOutline.asset using Guid(ea9f2d47913480c4f9e91454af7efa45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825c30cf2c954170b8395d89fccd3905') in 0.035991 seconds
+  Import took 0.041276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/Aerthas-Unity-Shaders/Arc System Works Shader/Custom Functions/FakeLightDir.asset
+  artifactKey: Guid(cd44a314984e6d54bbbf431a1fcdff4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aerthas-Unity-Shaders/Arc System Works Shader/Custom Functions/FakeLightDir.asset using Guid(cd44a314984e6d54bbbf431a1fcdff4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5cc68da4e86e079c3c564e62459fbc2') in 0.016914 seconds
+  Import took 0.021929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Maps/Textures Stage/Materials/Capsule House Texture.mat
+  artifactKey: Guid(c689362e66aeba24aab7e65a5585ac51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Textures Stage/Materials/Capsule House Texture.mat using Guid(c689362e66aeba24aab7e65a5585ac51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48cf5be77cc4c3fbc433eb93a9a49f6c') in 0.104041 seconds
+  Import took 0.108006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Maps/Textures Stage/Materials/Bark.mat
+  artifactKey: Guid(d9d3dfe9e19aa9f469a73a5f84aae097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Textures Stage/Materials/Bark.mat using Guid(d9d3dfe9e19aa9f469a73a5f84aae097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8454a9201431cfe4e1cfcdb43d064ed2') in 0.019078 seconds
+  Import took 0.022114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Maps/Textures Stage/Materials/Door.mat
+  artifactKey: Guid(51e9f0af71364974b8e23635f3f7c62a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Textures Stage/Materials/Door.mat using Guid(51e9f0af71364974b8e23635f3f7c62a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf67af7d6bf0a9e2367eb4bf50441543') in 0.021880 seconds
+  Import took 0.024500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Aerthas-Unity-Shaders/Arc System Works Shader/Custom Functions/Debug.asset
+  artifactKey: Guid(6f93fc90e278e9a449a8e28c4cbb4ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aerthas-Unity-Shaders/Arc System Works Shader/Custom Functions/Debug.asset using Guid(6f93fc90e278e9a449a8e28c4cbb4ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac48fb44b277031896d7c8608903dba6') in 0.011414 seconds
+  Import took 0.015492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000650 seconds.
+  path: Assets/Aerthas-Unity-Shaders/Arc System Works Shader/Custom Functions/Color Replacer.asset
+  artifactKey: Guid(3bf8a732171ac6840bcd0b4c21fcee62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aerthas-Unity-Shaders/Arc System Works Shader/Custom Functions/Color Replacer.asset using Guid(3bf8a732171ac6840bcd0b4c21fcee62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b325eb497287dcee6a0292c1500598') in 0.008551 seconds
+  Import took 0.011818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Aerthas-Unity-Shaders/Arc System Works Shader/Custom Functions/Fresnel System.asset
+  artifactKey: Guid(811554b0cdf882345bcf8f25bedebacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aerthas-Unity-Shaders/Arc System Works Shader/Custom Functions/Fresnel System.asset using Guid(811554b0cdf882345bcf8f25bedebacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '192f68c0f04400681ee961545ebb128e') in 0.008451 seconds
+  Import took 0.010929 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000896 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.7 MB.
+System memory in use after: 63.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 1.931100 ms (FindLiveObjects: 0.147300 ms CreateObjectMapping: 0.041000 ms MarkObjects: 1.682000 ms  DeleteObjects: 0.059100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000907 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.978 seconds
+Platform modules already initialized, skipping
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.7 MB.
+System memory in use after: 63.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1636.
+Total: 2.554000 ms (FindLiveObjects: 0.172600 ms CreateObjectMapping: 0.053100 ms MarkObjects: 2.259300 ms  DeleteObjects: 0.067100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 322.301458 seconds.
+  path: Assets/Scenes/Intro.unity
+  artifactKey: Guid(19399fcf40a04a24bb85e330e82cadd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Intro.unity using Guid(19399fcf40a04a24bb85e330e82cadd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b32569c448abcb286102fb8460b0ab3') in 0.053818 seconds
+  Import took 0.061323 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000901 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.003 seconds
+Platform modules already initialized, skipping
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.7 MB.
+System memory in use after: 63.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1639.
+Total: 2.386400 ms (FindLiveObjects: 0.245800 ms CreateObjectMapping: 0.065100 ms MarkObjects: 1.987700 ms  DeleteObjects: 0.085600 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
