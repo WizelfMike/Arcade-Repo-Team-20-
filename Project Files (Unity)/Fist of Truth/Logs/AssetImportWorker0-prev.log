@@ -1,0 +1,221 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.867; Version 2009; 64bit' Language: 'en' Physical Memory: 16233 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/mikey/Documents/Ma/Bewijzenmap/X 1/Y 3 (Arcade Mechanics)/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Fist of Truth
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64168
+Successfully changed project path to: C:/Users/mikey/Documents/Ma/Bewijzenmap/X 1/Y 3 (Arcade Mechanics)/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Fist of Truth
+C:/Users/mikey/Documents/Ma/Bewijzenmap/X 1/Y 3 (Arcade Mechanics)/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Fist of Truth
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mikey/Documents/Ma/Bewijzenmap/X 1/Y 3 (Arcade Mechanics)/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Fist of Truth/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.6140
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56676
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002291 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 68.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.524 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000881 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.023 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1128 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.4 MB.
+System memory in use after: 60.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 1.997000 ms (FindLiveObjects: 0.149000 ms CreateObjectMapping: 0.049600 ms MarkObjects: 1.696500 ms  DeleteObjects: 0.099900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958bbeca69382ca86a3967d77accdfb8') in 0.022671 seconds
+  Import took 0.025465 seconds .
+
+========================================================================
+Received Prepare
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 37.4 MB.
+System memory in use after: 37.5 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 2.272600 ms (FindLiveObjects: 0.209200 ms CreateObjectMapping: 0.071900 ms MarkObjects: 1.938800 ms  DeleteObjects: 0.051600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000804 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.328 seconds
+Platform modules already initialized, skipping
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.3 MB.
+System memory in use after: 60.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1576.
+Total: 1.924500 ms (FindLiveObjects: 0.176200 ms CreateObjectMapping: 0.056800 ms MarkObjects: 1.615700 ms  DeleteObjects: 0.073900 ms)
+
+========================================================================
+Received Prepare
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 37.7 MB.
+System memory in use after: 37.8 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1576.
+Total: 2.772500 ms (FindLiveObjects: 0.129800 ms CreateObjectMapping: 0.047100 ms MarkObjects: 2.516100 ms  DeleteObjects: 0.078500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 893.571972 seconds.
+  path: Assets/Scenes/Intro.unity
+  artifactKey: Guid(19399fcf40a04a24bb85e330e82cadd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Intro.unity using Guid(19399fcf40a04a24bb85e330e82cadd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f782cc65af0c48d70889e35819c49a45') in 0.035180 seconds
+  Import took 0.039916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.931260 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c2e6ec8986aa382122c5016318498d') in 0.022421 seconds
+  Import took 0.029209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.912807 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1645e188790819cd10c5daf7d63f75ad') in 0.008873 seconds
+  Import took 0.014850 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001277 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.994 seconds
+Platform modules already initialized, skipping
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.4 MB.
+System memory in use after: 60.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 1.902600 ms (FindLiveObjects: 0.146000 ms CreateObjectMapping: 0.042600 ms MarkObjects: 1.648700 ms  DeleteObjects: 0.063700 ms)
+
+========================================================================
+Received Prepare
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 37.8 MB.
+System memory in use after: 37.9 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 2.046900 ms (FindLiveObjects: 0.176400 ms CreateObjectMapping: 0.051300 ms MarkObjects: 1.752400 ms  DeleteObjects: 0.065100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.317585 seconds.
+  path: Assets/Monkee/Fist_Of_Truth_Logo.png
+  artifactKey: Guid(cfa35d055b979f443a300dfe7964c7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monkee/Fist_Of_Truth_Logo.png using Guid(cfa35d055b979f443a300dfe7964c7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dac13ab97844271c71e2ebde57502a3') in 0.091868 seconds
+  Import took 0.094053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.051979 seconds.
+  path: Assets/Monkee/Fist_Of_Truth_Logo.png
+  artifactKey: Guid(cfa35d055b979f443a300dfe7964c7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monkee/Fist_Of_Truth_Logo.png using Guid(cfa35d055b979f443a300dfe7964c7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ff4b965a4cef3c2a72bbd5b0d487289') in 0.067528 seconds
+  Import took 0.069853 seconds .
+
+========================================================================
+Received Prepare
+Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.0 MB.
+System memory in use after: 41.1 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1585.
+Total: 6.969000 ms (FindLiveObjects: 0.387100 ms CreateObjectMapping: 0.133100 ms MarkObjects: 6.263800 ms  DeleteObjects: 0.180500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
