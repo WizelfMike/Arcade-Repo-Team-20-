@@ -15,11 +15,11 @@ D:/School/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59740
+59832
 Successfully changed project path to: D:/School/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
 D:/School/BO/Arcade-Repo-Team-20-/Project Files (Unity)/Goku Test
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 22.41 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 23.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
@@ -36,22 +36,22 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56600
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56324
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001849 seconds.
+Registered in 0.001745 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 20.66 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 20.69 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.957 seconds
+- Completed reload, in  0.964 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000887 seconds.
+Registered in 0.000904 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
@@ -60,82 +60,66 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.727 seconds
+- Completed reload, in  0.731 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 59.9 MB.
 System memory in use after: 59.9 MB.
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1570.
-Total: 1.536400 ms (FindLiveObjects: 0.129900 ms CreateObjectMapping: 0.034800 ms MarkObjects: 1.296400 ms  DeleteObjects: 0.074500 ms)
+Total: 1.358500 ms (FindLiveObjects: 0.120600 ms CreateObjectMapping: 0.034700 ms MarkObjects: 1.135800 ms  DeleteObjects: 0.066600 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Models
-  artifactKey: Guid(422b1c6a28ce3ad44ad3f8577d3d0136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models using Guid(422b1c6a28ce3ad44ad3f8577d3d0136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e09c4f685307216292a14fe80d56094c') in 0.006726 seconds
-  Import took 0.008371 seconds .
+  path: Assets/Maps/Textures Stage/Door.png
+  artifactKey: Guid(aab445cda9b7c2e4995b445751146a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Textures Stage/Door.png using Guid(aab445cda9b7c2e4995b445751146a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e158b7e598ed27cd8677e786e26bf925') in 0.066636 seconds
+  Import took 0.068238 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 57.248299 seconds.
-  path: Assets/Scripts/Trigger.cs
-  artifactKey: Guid(24c52538c5ccdf14195b3020ce4f2c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Trigger.cs using Guid(24c52538c5ccdf14195b3020ce4f2c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e214e040d27e75cf0bdafd2bae62d22') in 0.039004 seconds
-  Import took 0.040667 seconds .
+  Time since last request: 0.000278 seconds.
+  path: Assets/Maps/Textures Stage/Bark.png
+  artifactKey: Guid(9763d4ec3c50d854281ae2c27c329ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Textures Stage/Bark.png using Guid(9763d4ec3c50d854281ae2c27c329ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d96dc175bc570ed57d6ec44a9cf18f4') in 0.012316 seconds
+  Import took 0.013864 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000915 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.738 seconds
-Platform modules already initialized, skipping
-Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
-Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.6 MB.
-System memory in use after: 59.6 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1573.
-Total: 2.044300 ms (FindLiveObjects: 0.202800 ms CreateObjectMapping: 0.061500 ms MarkObjects: 1.726600 ms  DeleteObjects: 0.051700 ms)
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Maps/Textures Stage/Grass.png
+  artifactKey: Guid(646e7706f304d1a4aac033af56e28d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Textures Stage/Grass.png using Guid(646e7706f304d1a4aac033af56e28d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ddd5031b92ae57a1b774ce63b4e3c20') in 0.009360 seconds
+  Import took 0.011437 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000925 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.670 seconds
-Platform modules already initialized, skipping
-Shader '.Aerthas/Arc System Works/Merged Light v6.11.0': dependency 'RenderType' shader 'Opaque' not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.6 MB.
-System memory in use after: 59.7 MB.
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Maps/Textures Stage/Stone.png
+  artifactKey: Guid(e5dfa802473d3dd4e98347b5a6088084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Textures Stage/Stone.png using Guid(e5dfa802473d3dd4e98347b5a6088084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d8e856263f4e0c137f7106e81daeee8') in 0.010828 seconds
+  Import took 0.012936 seconds .
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1576.
-Total: 1.653300 ms (FindLiveObjects: 0.114300 ms CreateObjectMapping: 0.037200 ms MarkObjects: 1.437100 ms  DeleteObjects: 0.063600 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Materials/OUCH.png
+  artifactKey: Guid(b5ec339c37baf5440920a795f317b682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/OUCH.png using Guid(b5ec339c37baf5440920a795f317b682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec7f746726901b860e92ca8175d58b1') in 0.024239 seconds
+  Import took 0.026159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Maps/Textures Stage/Capsule House Texture.png
+  artifactKey: Guid(d029ce28b5710af41ab5da470e4c1682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Textures Stage/Capsule House Texture.png using Guid(d029ce28b5710af41ab5da470e4c1682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a21205a202dffb4c9559975101068fc') in 0.008386 seconds
+  Import took 0.010070 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
